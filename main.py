@@ -31,8 +31,8 @@ class proxies:
                  proxy
                 
                  if True:
-                    proxies += [proxy.strip()]
-                    proxies
+                    self.proxies += [proxy.strip()]
+                    self.proxies
                  else:
                     pass
               else:
